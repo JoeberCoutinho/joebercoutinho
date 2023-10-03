@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/joeber-coutinho)
 
 ![Joeber's GitHub stats](https://github-readme-stats.vercel.app/api?username=joebercoutinho&show_icons=true&theme=transparent)<br/>
-![Joeber](https://github-readme-stats.vercel.app/api/top-langs/?username=joebercoutinho&show_icons=true&theme=blue-green)
+
 ## Tecnologias que eu trabalho
 
 <div style="display: inline_block"><br/>

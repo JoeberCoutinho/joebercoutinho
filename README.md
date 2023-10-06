@@ -7,7 +7,7 @@
 
 ## Tecnologias que eu trabalho
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,javascript,typescript,git,postman,angular,github,postgresql,jenkins&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html5,spring,css,javascript,typescript,git,postman,angular,github,postgresql,jenkins&theme=dark)](https://skillicons.dev)
 
 <div style="display: inline_block"><br/>
   

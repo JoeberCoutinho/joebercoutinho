@@ -12,4 +12,3 @@
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrodriguesbash&hide=null&theme=dark)](https://github.com/JoeberCoutinho/github-readme-stats)
-

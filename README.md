@@ -7,6 +7,8 @@
 
 ## Tecnologias que eu trabalho
 
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,javascript,typescript,git,github,jenkins&theme=dark)](https://skillicons.dev)
+
 <div style="display: inline_block"><br/>
   
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>

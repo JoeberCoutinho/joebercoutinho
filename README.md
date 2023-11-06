@@ -2,10 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GPMrks&color=blue" alt="Profile views" /> </p>
 
-[![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535999761290)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/joeber-coutinho)
 
-<a href="mailto:joebercoutinho@gmail.com" target="_blank" target="_blank">![Gmail](https://img.shields.io/badge/-Hotmail-05122A?style=flat&logo=microsoft-outlook&logoColor=0078d4&color=05122A)</a>
+<a href="mailto:joebercoutinho@gmail.com" target="_blank" target="_blank">![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=microsoft-outlook&logoColor=0078d4&color=05122A)</a>
 <a href="https://www.linkedin.com/in/joeber-coutinho/" target="_blank" target="_blank">![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LinkedIn&logoColor=0077b5&color=05122A)</a>
 
 <a href="https://www.instagram.com/joebercoutinho/" target="_blank" target="_blank">![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=Instagram&logoColor=e4405f&color=05122A)</a>

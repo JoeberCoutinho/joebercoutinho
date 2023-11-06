@@ -10,11 +10,9 @@
 
 ![Joeber's GitHub stats](https://github-readme-stats.vercel.app/api?username=joebercoutinho&show_icons=true&theme=transparent)<br/>
 
-## Tecnologias que eu trabalho
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexrodriguesbash&hide=null&theme=dark)](https://github.com/JoeberCoutinho/github-readme-stats)
 
-## 🛠️ **Techs:**
+## Tecnologias que eu trabalho
 
 - ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=c92123)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
@@ -40,13 +38,5 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab&logoColor=orange&color=05122A)&nbsp;
 
 
-## 📈 **Stats:**
 
 
-
-<div align="center">
-  <a href="https://github.com/GPMrks">
-
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GPMrks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GPMrks&layout=compact&langs_count=7&theme=radical"/>
-</div>

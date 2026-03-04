@@ -1,4 +1,4 @@
-### Sou <strong>Joeber Coutinho</strong>, Sistemas de Informação<br/>
+### Sou <strong>Joeber Coutinho</strong>, Desenvolvedor web Java<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GPMrks&color=blue" alt="Profile views" /> </p>
 
